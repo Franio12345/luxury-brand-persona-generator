@@ -4,7 +4,9 @@ A sophisticated web application designed as a digital atelier to help visionary 
 
 Authored by **Hussein Salim**, a full-stack developer and digital brand strategist blending luxury hospitality excellence with modern technology.
 
-**Live Demo:** [Link to your deployed application (e.g., on Vercel or Netlify)]
+**Live Demo:** [https://luxury-brand-persona-generator.vercel.app/]
+
+![Luxury Brand Persona Generator Showcase](<img width="1190" height="665" alt="social-preview" src="https://github.com/user-attachments/assets/be86f951-0b67-4631-aef5-73a1af3390c5" />)
 
 ![Luxury Brand Persona Generator Showcase](https://raw.githubusercontent.com/Hussein-Sonamreel/luxury-brand-persona-generator/main/public/social-preview.png)
 
