@@ -6,7 +6,7 @@ Authored by **Hussein Salim**, a full-stack developer and digital brand strategi
 
 **Live Demo:** [Link to your deployed application (e.g., on Vercel or Netlify)]
 
-![Luxury Brand Persona Generator Showcase](link-to-a-screenshot-or-gif-of-your-app.png)
+![Luxury Brand Persona Generator Showcase](https://raw.githubusercontent.com/Hussein-Sonamreel/luxury-brand-persona-generator/main/public/social-preview.png)
 
 ---
 
